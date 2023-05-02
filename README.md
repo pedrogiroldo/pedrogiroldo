@@ -132,7 +132,7 @@ Thank you for taking the time to learn a bit about me, and I look forward to the
 </ul>
 </div>
 
-<br>
+<!-- <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 <br>
@@ -142,7 +142,7 @@ Thank you for taking the time to learn a bit about me, and I look forward to the
 
 ## <b>Good Bye✨</b>
 
-</div>
+</div> -->
 <br>
 <br>
 <br>
