@@ -16,12 +16,13 @@
 
 <!-- Hello! My name is Pedro Giroldo and I am a beginner programmer with a passion for learning. Here are some key points about me: -->
 
-- Learning Programming: I have recently started learning programming and I am really enjoying it. I am currently focusing on full-stack web development.
-- Love for Problem-Solving: I love programming because it allows me to solve problems and think creatively. I am always up for a challenge and enjoy using my programming skills to find solutions.
-- High School Student: I am currently a high school student with a keen interest in technology and computer science.
-- Future Goals: I hope to pursue programming as a career and to continue learning and improving my skills in the field.
-- Open to Opportunities: I am open to internships or job opportunities that would allow me to further develop my programming skills.
-Thank you for taking the time to learn a bit about me, and I look forward to the opportunities that lie ahead!
+- <b>Learning Programming:</b> I have recently started learning programming and I am really enjoying it. I am currently focusing on full-stack web development.
+- <b>Love for Problem-Solving:</b> I love programming because it allows me to solve problems and think creatively. I am always up for a challenge and enjoy using my programming skills to find solutions.
+- <b>High School Student:</b> I am currently a high school student with a keen interest in technology and computer science.
+- <b>Future Goals:</b> I hope to pursue programming as a career and to continue learning and improving my skills in the field.
+- <b>Open to Opportunities:</b> I am open to internships or job opportunities that would allow me to further develop my programming skills.
+ 
+ <b>Thank you for taking the time to learn a bit about me, and I look forward to the opportunities that lie ahead!</b>
 
 <br><br>
 
