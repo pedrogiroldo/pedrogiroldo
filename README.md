@@ -14,7 +14,7 @@
 
 <br>
 
-Hello! My name is Pedro Giroldo and I am a beginner programmer with a passion for learning. Here are some key points about me:
+<!-- Hello! My name is Pedro Giroldo and I am a beginner programmer with a passion for learning. Here are some key points about me: -->
 
 - Learning Programming: I have recently started learning programming and I am really enjoying it. I am currently focusing on full-stack web development.
 - Love for Problem-Solving: I love programming because it allows me to solve problems and think creatively. I am always up for a challenge and enjoy using my programming skills to find solutions.
