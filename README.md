@@ -12,7 +12,7 @@
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
-<br>
+<!-- <br> -->
 
 <!-- Hello! My name is Pedro Giroldo and I am a beginner programmer with a passion for learning. Here are some key points about me: -->
 
