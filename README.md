@@ -80,7 +80,7 @@ Thank you for taking the time to learn a bit about me, and I look forward to the
 <br>
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<!-- ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
 <div align="center">
@@ -96,7 +96,7 @@ Thank you for taking the time to learn a bit about me, and I look forward to the
 <br>
 <br>
 
------
+----- -->
 
 <br>
 <br>
