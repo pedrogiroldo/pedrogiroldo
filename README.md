@@ -1,3 +1,10 @@
+
+<h1 align="center"><b>Hi , I'm Pedro Giroldo </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+
+
+<br>
+    
 # 💫 About Me:
 - <b>Learning Programming:</b> I have recently started learning programming and I am really enjoying it. I am currently focusing on full-stack web development.
 - <b>Love for Problem-Solving:</b> I love programming because it allows me to solve problems and think creatively. I am always up for a challenge and enjoy using my programming skills to find solutions.
