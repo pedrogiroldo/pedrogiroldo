@@ -4,7 +4,7 @@
 
 # ✏️ Outros Projetos:
 ### CladoGraph:
-<a href="https://github.com/CladoGraph">
+<a href="https://github.com/pedrogiroldo/cladograph">
 <img src="./cladographLogo.png" alt="Descrição da imagem" width="300">
 </a>
 
